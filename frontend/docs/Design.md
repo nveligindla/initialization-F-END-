@@ -2,8 +2,7 @@
 
 ## Purpose
 This document describes the data model for the PSNM Innovations frontend.
-The design is based only on the available UI screens and wireframes.
-No backend or Supabase changes are part of this task.
+The design is based on the available UI screens and wireframes.
 
 ---
 
